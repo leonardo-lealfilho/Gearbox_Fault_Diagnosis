@@ -1,1 +1,1 @@
-# Geabox_Fault_Diagnosis
+# Gearbox_Fault_Diagnosis
